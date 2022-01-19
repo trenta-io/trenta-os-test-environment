@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Color Picker
+Comment=Color picker
+Comment[ru]=Пипетка для снятия цвета
+GenericName=Color picker
+Exec=gpick %u
+Icon=gpick
+StartupNotify=true
+MimeType=text/x-utility;
+Terminal=false
+Type=Application
+Categories=graphics;GTK;X-GNOME-Utilities;
+Keywords=color picker;colorpick;palette;palette editing;

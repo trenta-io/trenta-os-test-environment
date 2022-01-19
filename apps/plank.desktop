@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dock
+Comment=Desktop Dock
+Exec=plank
+Terminal=false
+Type=Application
+Icon=plank
+StartupNotify=false
